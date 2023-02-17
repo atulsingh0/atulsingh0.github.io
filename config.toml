@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/starsNme-50.jpg"
   SEOTitle = "Atul's Blog"
   description = "My Scrapbook About Almost Anything I Stumble Upon But Mostly Around Cloud, K8s, OpenShift, DataScience, Machine Learning, Golang, Python, Data Analytics, DataStage, DWH And ETL Concepts. If You Find Any Pages Useful Don't Forget To Give Thumbs-Up :)"
   keyword = "Cloud, AWS, GCP, OCP, Atul Blog, PaaS, Kubernetes, Microservice"
@@ -35,9 +35,9 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
+  sidebar_about_description = "Engineer@CircleCI"
   #sidebar_avatar = "img/avatar-atul.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/atul.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/atul.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true
   featured_condition_size = 1
@@ -50,7 +50,7 @@ home = ["HTML", "RSS", "Algolia"]
   disqus_proxy = ""
   disqus_site = ""
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
@@ -64,8 +64,8 @@ home = ["HTML", "RSS", "Algolia"]
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
-  stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  linkedin       = "https://www.linkedin.com/in/atulsingh0"
+  stackoverflow  = "https://stackoverflow.com/users/datagenx"
   #instagram     = "full profile url in instagram"
   github         = "https://github.com/atulsingh0"
   wechat         = "your wechat qr code image"

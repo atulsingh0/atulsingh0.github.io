@@ -1,0 +1,2 @@
+render:
+	hugo server -D
