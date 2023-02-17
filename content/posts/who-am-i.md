@@ -1,7 +1,7 @@
 ---
 title: "Who am I?"
 date: 2023-02-16T20:47:14-05:00
-draft: true
+draft: false
 ---
 
 <h1 align="center"> Hi there, I'm Atul 👋 </h1>
