@@ -1,4 +1,39 @@
-baseURL = 'https://atulsingh0.github.io'
-languageCode = 'en-us'
-title = 'DataGenX'
-theme = 'ananke'
+seURL = "https://atulsingh0.github.io/"
+languageCode = "en-us"
+title = "Atul's Blog"
+theme = "yinyang"
+
+[markup]
+  [markup.goldmark]
+      [markup.goldmark.renderer]
+            unsafe = true
+	      [markup.highlight]
+	          guessSyntax = true
+		      noClasses = true
+		          style = "bw"
+			      tabWidth = 2
+
+			      [author]
+			        name = "Atul"
+				  homepage = "https://atulsingh0.github.io/"
+
+				  [languages]
+				    [languages.en]
+				        contentDir = "content/en"
+					    languageName = "English"
+					        weight = 1
+							      [params]
+							      mainSections = ["posts"]
+							      headTitle = "DataGenX"
+							      disqus = "datagenx" # disqus account name
+							      extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
+							      [[params.socials]]
+							      name = "About Me"
+							      link = "https://atulsingh0.github.io"
+							      [[params.socials]]
+							      name = "Github"
+							      link = "https://github.com/atulsingh0"
+							      postHeaderContent = ""
+							      postFooterContent = "<br/><br/><p>Subscribe to：<a target='_blank' href='https://mailchi.mp/a1a0d59e7a19/joway'>Joway's Blog</a></p>"
+							      # extraCSSFiles = ["css/foo.css", "css/bar.css"]
+							      extraCSSFiles = []
