@@ -79,7 +79,7 @@ home = ["HTML", "RSS", "Algolia"]
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
 
-  [[params.friend_link]
+  [[params.friend_link]]
   title = "Atul"
   href =  "https://atul.com"
 
