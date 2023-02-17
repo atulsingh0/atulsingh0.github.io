@@ -1,0 +1,4 @@
+baseURL = 'http://atulsingh0.github.io'
+languageCode = 'en-us'
+title = 'DataGenX'
+theme = 'ananke'
