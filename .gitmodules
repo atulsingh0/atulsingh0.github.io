@@ -1,6 +1,3 @@
-[submodule "hugo-theme-darkhour"]
-	path = hugo-theme-darkhour
-	url = https://github.com/atulsingh0/hugo-theme-darkhour.git
-[submodule "theme/hugo-theme-darkhour"]
-	path = theme/hugo-theme-darkhour
-	url = https://github.com/atulsingh0/hugo-theme-darkhour.git
+[submodule "themes/hugo-theme-darkhour"]
+	path = themes/hugo-theme-darkhour
+	url = https://github.com/atulsingh0/hugo-theme-darkhour
