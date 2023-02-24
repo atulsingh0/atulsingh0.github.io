@@ -1,6 +1,6 @@
 baseurl = "https://atulsingh0.github.io"
 title = "DataGenX"
-theme = "hugo-theme-cleanwhite"
+theme = "hugo-theme-darkhour"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "datagenx"

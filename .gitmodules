@@ -1,6 +1,6 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
-[submodule "themes/hugo-theme-cleanwhite"]
-	path = themes/hugo-theme-cleanwhite
-	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "hugo-theme-darkhour"]
+	path = hugo-theme-darkhour
+	url = https://github.com/atulsingh0/hugo-theme-darkhour.git
+[submodule "theme/hugo-theme-darkhour"]
+	path = theme/hugo-theme-darkhour
+	url = https://github.com/atulsingh0/hugo-theme-darkhour.git
