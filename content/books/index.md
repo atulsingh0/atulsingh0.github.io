@@ -10,3 +10,8 @@ layout: page
 # 2022
 * [_A Mind for Numbers_](https://www.amazon.ca/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X) by Barbara Oakley
 * [_Software Architecture: The Hard Parts_](https://www.amazon.ca/Software-Architecture-Parts-Neal-Ford-ebook/dp/B09H2H5QKC) by Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani
+
+## To Read List
+*  Blink: The Power of Thinking Without Thinking by Malcolm Gladwell
+*  Thinking, Fast and Slow by Daniel Kahneman
+*  The Catalyst: How to Change Anyone’s Mind by Jonah Berger
