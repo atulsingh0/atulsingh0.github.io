@@ -60,7 +60,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   rss            = true
-  email          = "atul9806@yahoo.in"
+  email          = "atul@datagenx.net"
   #facebook      = "full profile url in facebook"
   twitter        = "https://twitter.com/datagenx"
   linkedin       = "https://www.linkedin.com/in/atulsingh0"
