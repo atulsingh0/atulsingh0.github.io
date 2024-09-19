@@ -8,6 +8,8 @@ layout: page
 ---
 
 # 2024
+- :white_check_mark: - [Start with WHY](https://simonsinek.com/books/start-with-why/)
+- :white_check_mark: [Radical Candor](https://www.radicalcandor.com/the-book/)
 - :o: - [_The Pragmatic Programmer_](https://www.informit.com/store/pragmatic-programmer-your-journey-to-mastery-20th-anniversary-9780135957059)
 - :o: - [_System Design Interview_](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 - :o: - [_Building Microservices: Designing Fine-Grained Systems_](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems)
